@@ -2,7 +2,7 @@
 
 Neste repositório, organizo os projetos que desenvolvi com foco em arquitetura de código, integração de APIs e desenvolvimento de interfaces.
 
-## 📁 Projetos Disponíveis
+## Projetos Disponíveis
 
 ### 1. [Site Ionic React - Wiki Gorillaz](./Pasta_Do_Teu_Projeto_Ionic)
 **Tecnologias:** Ionic react, rapid-api, css.
@@ -18,6 +18,6 @@ Neste repositório, organizo os projetos que desenvolvi com foco em arquitetura 
 
 ---
 
-## 🛠️ Competências Técnicas Gerais
+## Competências Técnicas Gerais
 - **Linguagens:** JavaScript, ionic react, css
 - **Ferramentas:** Processing, VS Code.
