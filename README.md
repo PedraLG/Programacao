@@ -12,7 +12,7 @@ Neste repositório, organizo os projetos que desenvolvi com foco em arquitetura 
 **Tecnologias:** Processing
 - Descrição curta: "Tentativa de reprodução do famoso jogo Flappy Bird".
 
-### 3. [Jogo Incremental](./JogoIncremental)
+### 3. [Jogo Incremental (incompleto)](./JogoIncremental)
 **Tecnologias:** Processing
 - Descrição curta: "Desenvolvimento de um jogo estilo "incremental"".
 
