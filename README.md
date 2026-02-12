@@ -4,15 +4,15 @@ Neste repositório, organizo os projetos que desenvolvi com foco em arquitetura 
 
 ## Projetos Disponíveis
 
-### 1. [Site Ionic React - Wiki Gorillaz](./Wiki_Gorillaz)
+### 1. [Site Ionic React - Wiki Gorillaz](./WikiGorillaz)
 **Tecnologias:** Ionic react, rapid-api, css.
 - **Nota:** Contém screenshots da interface funcional, justificando a atual descontinuação da API externa (RapidAPI).
 
-### 2. [Flappy Bird (incompleto)](./Pasta_Da_App_2)
+### 2. [Flappy Bird (incompleto)](./FlappyBird)
 **Tecnologias:** Processing
 - Descrição curta: "Tentativa de reprodução do famoso jogo Flappy Bird".
 
-### 3. [Jogo Incremental](./Pasta_Do_Site)
+### 3. [Jogo Incremental](./JogoIncremental)
 **Tecnologias:** Processing
 - Descrição curta: "Desenvolvimento de um jogo estilo "incremental"".
 
