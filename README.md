@@ -1,35 +1,23 @@
 # Programação
 
-Este repositório compila projetos de software e web design, focados na resolução de problemas através de código limpo e funcional.
+Neste repositório, organizo os projetos que desenvolvi com foco em arquitetura de código, integração de APIs e desenvolvimento de interfaces.
+
+## 📁 Projetos Disponíveis
+
+### 1. [Site Ionic React - Wiki Gorillaz](./Pasta_Do_Teu_Projeto_Ionic)
+**Tecnologias:** Ionic react, rapid-api, css.
+- **Nota:** Contém screenshots da interface funcional, justificando a atual descontinuação da API externa (RapidAPI).
+
+### 2. [Flappy Bird (incompleto)](./Pasta_Da_App_2)
+**Tecnologias:** Processing
+- Descrição curta: "Tentativa de reprodução do famoso jogo Flappy Bird".
+
+### 3. [Jogo Incremental](./Pasta_Do_Site)
+**Tecnologias:** Processing
+- Descrição curta: "Desenvolvimento de um jogo estilo "incremental"".
 
 ---
 
-## Projeto: [Nome do teu Site]
-*Desenvolvimento Web Front-End*
-
-Este projeto é um site interativo que consumia dados em tempo real através da **RapidAPI**. 
-
-> **Nota Técnica:** Atualmente, a visualização completa das funcionalidades em tempo real está limitada. Isto deve-se ao facto de a API utilizada na altura do desenvolvimento ter sido descontinuada ou alterada pelo fornecedor (Rapid-API), o que causa falhas nos pedidos atuais. Por esse motivo, apresento capturas de ecrã que documentam a interface e a lógica implementada quando o serviço estava totalmente operacional.
-
-### 🛠️ Stack Técnica
-- **Linguagens:** HTML5, CSS3, JavaScript
-- **Integrações:** Rapid-API (Consumo de JSON)
-- **Destaque:** Implementação de lógica de filtragem de dados e design responsivo.
-
-### 📸 Demonstração
-![Screenshot 1](link-do-print-1.jpg)
-*Interface principal e estrutura de navegação.*
-
----
-
-## 📱 Aplicações Desenvolvidas
-### [Nome da App 1]
-- **Linguagem:** [Ex: C# / Python]
-- **Funcionalidade:** Explica brevemente o que a app faz (ex: Gestão de inventário, Automação de tarefas).
-- **Lógica:** "Foco na estrutura de dados e tratamento de exceções."
-
----
-
-## 🛠️ Ferramentas
-- **IDEs:** VS Code, Visual Studio
-- **Versionamento:** Git / GitHub
+## 🛠️ Competências Técnicas Gerais
+- **Linguagens:** JavaScript, ionic react, css
+- **Ferramentas:** Processing, VS Code.
