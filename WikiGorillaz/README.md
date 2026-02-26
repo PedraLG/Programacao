@@ -8,5 +8,5 @@ Devido a limitações atuais da api selecionada da **RapidAPI** utilizada, a apl
 **Para visualizar o resultado final e a UI implementada, consulte as capturas de ecrã abaixo.** O código fonte está disponível para análise da lógica de componentes e integração, sobretudo da parte limitida.
 
 ### Capturas de Ecrã
-![Parte Funcional 1](./screenshots/print1.jpg)
+![Parte Funcional 1](./screenshots/1.jpg)
 *Visualização da interface principal.*
